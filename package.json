@@ -1,0 +1,20 @@
+{
+  "name": "news_koa",
+  "version": "1.0.0",
+  "description": "tangjingqi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dingtalk-robot-sender": "^1.2.0",
+    "ejs": "^3.1.3",
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "node-schedule": "^1.3.2",
+    "pg": "^8.2.1",
+    "puppeteer": "^3.1.0"
+  }
+}
